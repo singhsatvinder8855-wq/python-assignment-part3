@@ -1,0 +1,2 @@
+[2026-04-04 12:15:03.327044] Error in fetch_products: ConnectionError - HTTPSConnectionPool(host='the-host-is-busy-abc.com', port=443): Max retries exceeded with url: /api (Caused by NameResolutionError("HTTPSConnection(host='the-host-is-busy-abc.com', port=443): Failed to resolve 'the-host-is-busy-abc.com' ([Errno 11001] getaddrinfo failed)"))
+[2026-04-04 12:15:04.674181] Error in lookup_product: HttpError - Product Id 999 not found
